@@ -1,0 +1,6 @@
+Infra simples para VPS AWS
+
+
+Entre na pasta terraform
+
+Após a comclusão do terraform entrar na pasta ansible para a instalação do Docker e sua deperencias

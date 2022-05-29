@@ -1,0 +1,8 @@
+Para iniciar o Terrarform
+terraform init
+
+Para executar o terraform e iniciar a maquina na aws depois de todas a configurações feitas como aws_cli, e chave SSH
+terraform apply 
+
+Caso queira destruir a maquina na AWS
+Terraform destroy
